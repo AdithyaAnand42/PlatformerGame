@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dsgl4q0rdnysp"
-path="res://.godot/imported/world_tileset.png-61a32465f33c3d9d3bfecb75b6485009.ctex"
+uid="uid://d2hs5f8xp474h"
+path="res://.godot/imported/doom-walk3.png-a4f1ed91ce5a20ae1d3263957fb23057.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/world_tileset.png"
-dest_files=["res://.godot/imported/world_tileset.png-61a32465f33c3d9d3bfecb75b6485009.ctex"]
+source_file="res://assets/sprites/doom-walk3.png"
+dest_files=["res://.godot/imported/doom-walk3.png-a4f1ed91ce5a20ae1d3263957fb23057.ctex"]
 
 [params]
 
