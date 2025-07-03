@@ -69,6 +69,7 @@ horizontal_alignment = 1
 autowrap_mode = 2
 
 [node name="WinLabel" type="Label" parent="GameManager"]
+visible = false
 offset_left = 455.0
 offset_top = -180.0
 offset_right = 575.0
