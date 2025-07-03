@@ -68,6 +68,18 @@ text = "You collected X coins"
 horizontal_alignment = 1
 autowrap_mode = 2
 
+[node name="WinLabel" type="Label" parent="GameManager"]
+offset_left = 455.0
+offset_top = -180.0
+offset_right = 575.0
+offset_bottom = -143.0
+theme_override_colors/font_color = Color(0.312064, 0.000265249, 0.384153, 1)
+theme_override_fonts/font = ExtResource("7_eow3j")
+theme_override_font_sizes/font_size = 8
+text = "You Win!"
+horizontal_alignment = 1
+autowrap_mode = 2
+
 [node name="Killzone" parent="." instance=ExtResource("1_7jktm")]
 position = Vector2(1, 103)
 
@@ -168,15 +180,3 @@ theme_override_colors/font_color = Color(0.312064, 0.000265249, 0.384153, 1)
 theme_override_fonts/font = ExtResource("7_eow3j")
 theme_override_font_sizes/font_size = 8
 text = "Almost there!!"
-
-[node name="Label5" type="Label" parent="Labels"]
-offset_left = 455.0
-offset_top = -180.0
-offset_right = 575.0
-offset_bottom = -143.0
-theme_override_colors/font_color = Color(0.312064, 0.000265249, 0.384153, 1)
-theme_override_fonts/font = ExtResource("7_eow3j")
-theme_override_font_sizes/font_size = 8
-text = "Great job!"
-horizontal_alignment = 1
-autowrap_mode = 2
